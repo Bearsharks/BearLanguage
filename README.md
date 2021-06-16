@@ -1,5 +1,9 @@
-c¾ð¾î¸¦ ±â¹ÝÀ¸·Î ÇÏ´Â »õ·Î¿î ÇÁ·Î±×·¡¹Ö ¾ð¾î Bear¸¦ Á¤ÀÇÇÏ°í bear¾ð¾î·Î ÀÛ¼ºµÈ ÄÚµå¸¦ ½ÇÇàÇÏ´Â ÀÎÅÍÇÁ¸®ÅÍÀÔ´Ï´Ù.
+# í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ Bear
+BearëŠ” C-style ì¸í„°í”„ë¦¬í„°ì–¸ì–´ ìž…ë‹ˆë‹¤.
 
-º» ÇÁ·ÎÁ§Æ® ¿¡¼­´Â Lex¿Í Yacc¸¦ »ç¿ëÇÏ¿´À¸¸ç, AST¿Í SymbolTable´Â c++¸¦ »ç¿ëÇØ ±¸ÇöÇÏ¿´½À´Ï´Ù.
+# ì‚¬ìš©ê¸°ìˆ 
+ìŠ¤ìºë„ˆ / íŒŒì„œ ì œë„¤ë ˆì´í„° : Flex/Bison
+ì–¸ì–´ : c++
 
-Bear¾ð¾î¿¡ ´ëÇÑ ÀÚ¼¼ÇÑ Á¤º¸´Â Bear¾ð¾î ¼Ò°³.pdf¸¦ Âü°íÇÏ½Ã±æ ¹Ù¶ø´Ï´Ù.
+# ìƒì„¸ì„¤ëª…
+Bearì–¸ì–´ì— ëŒ€í•œ ìžì„¸í•œ ì •ë³´ëŠ” [Bearì–¸ì–´ ì†Œê°œ.pdf](#)ë¥¼ ì°¸ê³ í•˜ì‹œê¸¸ ë°”ëžë‹ˆë‹¤.
